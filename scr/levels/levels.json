@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Identificação de sinais",
+    "type": ["Psicológica"],
+    "difficulty": 1,
+    "objectives": ["Identificar sinais de manipulação emocional"]
+  },
+  {
+    "id": 2,
+    "name": "Gestão de conflitos",
+    "type": ["Física", "Patrimonial"],
+    "difficulty": 2,
+    "objectives": ["Evitar agressões físicas e controlar recursos financeiros"]
+  }
+]
