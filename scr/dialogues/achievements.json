@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Defensor da Igualdade",
+    "description": "Completar fase sem erros",
+    "points": 10
+  },
+  {
+    "id": 2,
+    "name": "Sobrevivente Mestre",
+    "description": "Explorar rota alternativa e finalizar fase",
+    "points": 20
+  }
+]
